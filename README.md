@@ -117,7 +117,7 @@ sudo apt-get install -y build-essential lld pkg-config libssl-dev
 make clean && make -j$(nproc)
 ```
 
-Binary: `bin/HippoFrog`
+Binary: [HippoFrog.zip](https://github.com/victormeloasm/HippoFrog/releases/download/Hippo/HippoFrog.zip)
 
 ## 6. Quick Start
 
