@@ -35,7 +35,7 @@
 
 ## 1. Story & Motivation
 
-HippoFrog is an end-to-end educational tool that demonstrates **key exchange (ECDH)**, **key derivation (HKDF-SHA-256)**, and **authenticated encryption (AES-256-GCM)**, while enforcing **twist/invalid-curve defenses**. The curve is **ECCFROG522PP**, a \~521-bit prime-field curve with cofactor 1 and `a = −9`. The project intentionally uses a non-standard curve to keep the focus on correctness and validation.
+HippoFrog is an end-to-end educational tool that demonstrates **key exchange (ECDH)**, **key derivation (HKDF-SHA-256)**, and **authenticated encryption (AES-256-GCM)**, while enforcing **twist/invalid-curve defenses**. The curve is **ECCFROG522PP**, a \~522-bit prime-field curve with cofactor 1 and `a = −9`. The project intentionally uses a non-standard curve to keep the focus on correctness and validation.
 
 ## 2. High-Level Overview
 
