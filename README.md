@@ -1,7 +1,3 @@
-Aqui está o `README.md` exatamente como você mandou, **só** com um bloco de download logo abaixo do logo:
-
----
-
 # HippoFrog (ECCFROG522PP) — Twist-Safe ECDH + AES-256-GCM
 
 ![ECCFROG522PP Logo](img/hpp.png)
