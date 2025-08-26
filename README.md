@@ -177,7 +177,7 @@ A GitHub Actions workflow builds on Ubuntu and runs smoke tests: keygen, validat
 
 ## 12. Performance Notes
 
-* \~521-bit curve; heavier than 256-bit classes but fine for general CLI use.
+* \~522-bit curve; heavier than 256-bit classes but fine for general CLI use.
 * Build uses modern flags and lld when present.
 
 ![ECCFROG522PP Logo](img/bh.png)
