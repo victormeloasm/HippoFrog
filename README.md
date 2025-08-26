@@ -1,4 +1,4 @@
-# HippoFrog (ECCFROG522PP) — ECDH + AES‑256‑GCM
+# HippoFrog (ECCFROG522PP) — Twist-Safe ECDH + AES-256-GCM
 
 ![ECCFROG522PP Logo](img/hpp.png)
 
