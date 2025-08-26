@@ -2,9 +2,7 @@
 
 ![ECCFROG522PP Logo](img/hpp.png)
 
-> **Status:** Research/experimental. Uses a **custom elliptic curve**; do **not** use for production without an external cryptographic review.
 
----
 
 ## Table of Contents
 
