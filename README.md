@@ -4,6 +4,10 @@
 
 **Download:** [HippoFrog.zip](https://github.com/victormeloasm/HippoFrog/releases/download/Hippo/HippoFrog.zip)
 
+[![Reproducibility](https://img.shields.io/badge/reproducible-YES-brightgreen)](...)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](...)
+
+
 ## Table of Contents
 
 * [1. Overview](#1-overview)
