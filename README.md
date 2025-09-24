@@ -5,7 +5,7 @@
 **Download:** [HippoFrog.zip](https://github.com/victormeloasm/HippoFrog/releases/download/Hippo/HippoFrog.zip)
 
 [![Reproducibility](https://img.shields.io/badge/reproducible-YES-brightgreen)](...)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](...)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/victormeloasm/HippoFrog/blob/main/LICENSE)
 
 
 ## Table of Contents
